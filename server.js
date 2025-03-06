@@ -32,4 +32,4 @@ app.post("/chat", async (req, res) => {
     }
 });
 
-app.listen(3000, () => console.log("Server berjalan di http://localhost:3000"));
+app.listen(3000, () => console.log("Server berjalan di https://hozoowhitehat.github.io/2726282827/AI_KANDURA.html"));
